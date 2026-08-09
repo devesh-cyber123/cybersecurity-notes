@@ -32,7 +32,7 @@ It is larger than a LAN but smaller than a WAN.
 ## WAN(WIDE AREA NETWORK)
 WAN is a telecommunications network that extends over a large geographical area.such as cities, states, countries, or even continents.
 
-[*]sabse bada network jo counties aur conyinents ko connects karta hai.
+[*]sabse bada network jo counties aur continents ko connects karta hai.
 
 # example-:
 .internet
