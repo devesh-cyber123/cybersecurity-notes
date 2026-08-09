@@ -13,8 +13,12 @@ Network Topology is the arrangement or structure of devices such as computers, s
         /  |  \
       PC1 PC2 PC3 
 # IS DIAGRAM MEIN HUM DEKH SKTE HAIN.
+
 Router → Internet se connected hai
+
 Switch → PCs ko connect kar raha hai
+
 PC1, PC2, PC3 → network ke devices hain
+
 
 In devices ka connection/structure = Network Topology
