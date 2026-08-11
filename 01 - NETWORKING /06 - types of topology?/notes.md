@@ -30,7 +30,9 @@ Ring topology is a network topology in which each device is connected to two oth
  Har device apne neighboring devices se connected hota hai.
   # DIAGRAM-:
   <img width="1254" height="1254" alt="2d371b52-4ee1-45e4-97e2-f9efeaf30236" src="https://github.com/user-attachments/assets/59dbbba5-363b-48ca-a015-cf351574eefb" />
+  
 # 4. MESH TOPOLOGY-:
+
 Mesh topology is a network topology in which devices have multiple connections or paths between them.
 
 [*] Ismein devices ke beech multiple connections/paths hote hain.
