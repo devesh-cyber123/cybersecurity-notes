@@ -1,5 +1,5 @@
 # what is /root - user's home directory ?
-/root — Root User's Home
+# /root — Root User's Home
 
 /root is the home directory of the root user.
 
