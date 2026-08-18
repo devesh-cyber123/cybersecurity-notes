@@ -1,5 +1,5 @@
 # what is /home directories ?
-/home - user directories
+# /home - user directories
 
 /home contains the personal directories of normal users.
 
