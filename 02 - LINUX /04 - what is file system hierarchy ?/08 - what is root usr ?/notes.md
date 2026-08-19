@@ -8,8 +8,11 @@
 # Important directories:
 
 /usr/bin
+
 /usr/sbin
+
 /usr/lib
+
 /usr/share
 
 # Example:
